@@ -1,0 +1,6 @@
+@font-face{
+  font-family:'BenbenXiaogou';
+  src:url('https://cdn.jsdelivr.net/gh/3485580873-gif/font-cdn@main/benben-xiaogou.woff2') format('woff2');
+  font-display:swap;
+}
+body{ font-family:'BenbenXiaogou',sans-serif; }
