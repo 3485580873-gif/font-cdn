@@ -1,0 +1,6 @@
+@font-face{
+  font-family:'LiuxinShizi';
+  src:url('https://cdn.jsdelivr.net/gh/3485580873-gif/font-cdn@main/liuxin-shizi.woff2') format('woff2');
+  font-display:swap;
+}
+body{ font-family:'LiuxinShizi',sans-serif; }
