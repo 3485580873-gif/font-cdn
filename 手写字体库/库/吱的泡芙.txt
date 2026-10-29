@@ -1,0 +1,6 @@
+@font-face{
+  font-family:'ZhiPaofu';
+  src:url('https://cdn.jsdelivr.net/gh/3485580873-gif/font-cdn@main/zhi-paofu.woff2') format('woff2');
+  font-display:swap;
+}
+body{ font-family:'ZhiPaofu',sans-serif; }
