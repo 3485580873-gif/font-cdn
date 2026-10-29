@@ -1,0 +1,6 @@
+@font-face{
+  font-family:'Youzhiyuan';
+  src:url('https://cdn.jsdelivr.net/gh/3485580873-gif/font-cdn@main/youzhiyuan.woff2') format('woff2');
+  font-display:swap;
+}
+body{ font-family:'Youzhiyuan',sans-serif; }
